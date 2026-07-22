@@ -17,6 +17,6 @@ Este projeto tem como objetivo praticar um pipeline completo de dados:
 
 ```mermaid
 graph LR
-    A[CSV] --> B[Pandas - Limpeza e Tratamento]
+    A[CSV] --> B[Pandas - Limpeza/Tratamento]
     B --> C[Conversão de Tipos]
     C --> D[SQL Server - Tabela Orders]
