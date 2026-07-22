@@ -2,7 +2,7 @@ Olá me chamo Felipe Banciella e esse é o meu projeto de Chocolate Data Pipelin
 
 ## 📌 Descrição
 Este projeto tem como objetivo praticar um pipeline completo de dados:
-1. Importação de um dataset bruto em formato CSV.
+1. Importação de um dataset bruto em formato CSV : https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales/data
 2. Limpeza e tratamento dos dados utilizando **Python (Pandas)**.
 3. Conversão da coluna de datas para o formato `datetime`.
 4. Exportação da tabela final para **SQL Server**, permitindo consultas básicas e avançadas.
